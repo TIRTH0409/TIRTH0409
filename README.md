@@ -11,8 +11,10 @@
 - **Tools & Technologies:** Git, AWS
 - **UI/UX Design:** Figma, Adobe XD, Adobe Illustrator, Photoshop 
 
-- 🗃️ Working on multiple frontend and backend projects using JavaScript and React.js
-- 🎯 Hacking on JavaScript
+## 📚 Current Focus
+
+- 🗃️ **Projects:** Working on multiple frontend and backend projects using JavaScript and React.js
+- 🎯 **Learning:** Deepening knowledge in JavaScript
 
 ___
 
