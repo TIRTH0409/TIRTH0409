@@ -6,10 +6,10 @@
 
 ## 🛠 Technical Skills
 
-- **Web Development:** HTML, CSS, React, Node.js
-- **Databases:** MySQL, MongoDB, PostgreSQL
-- **Tools & Technologies:** Git, AWS
-- **UI/UX Design:** Figma, Adobe XD, Adobe Illustrator, Photoshop 
+- **Web Development**
+- **UI/UX Design**
+- **Graphic Designer**
+  
 
 ## 📚 Current Focus
 
