@@ -16,7 +16,7 @@ I am **Tirth Patel Web Developer & UX/UI Designer**
 </div>  
   
 
-### <div align="center"><img src="https://github.com/kp4karma/kp4karma/blob/main/assets/Hi.gif" width="25" /> I'm Karma, a full-stack freelance app developer 👨‍💻 working remotely since 2021 🚀</div>  
+### <div align="center"> I'm Karma, a full-stack freelance app developer 👨‍💻 working remotely since 2021 🚀</div>  
   
 
 👨‍💻 Full Stack App Developer | 🌐 App Enthusiast | 🚀 Passionate about Innovation 📚 
