@@ -8,7 +8,7 @@
 
 - **Web Development**
 - **UI/UX Design**
-- **Graphic Designer**
+- **Graphic Design**
   
 
 ## 📚 Current Focus
