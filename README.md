@@ -14,7 +14,7 @@
 ## 📚 Current Focus
 
 - 🗃️ **Projects:** Working on multiple frontend and backend projects using JavaScript and React.js
-- 🎯 **Learning:** Deepening knowledge in JavaScript
+- 🎯 **Learning:** Deepening knowledge in Web Development
 
 ___
 
