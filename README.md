@@ -10,7 +10,6 @@
 - **UI/UX Design**
 - **Graphic Design**
   
-
 ## 📚 Current Focus
 
 - 🗃️ **Projects:** Working on multiple frontend and backend projects using JavaScript and React.js
