@@ -14,7 +14,7 @@
 
 - 🗃️ **Projects:** Working on multiple frontend and backend projects using JavaScript and React.js
 - 🎯 **Learning:** Deepening knowledge in Web Development
-
+  
 ___
 
 *Thank you for visiting my profile! Let's create something amazing together.* 🤝
