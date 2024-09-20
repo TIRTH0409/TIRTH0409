@@ -6,9 +6,10 @@
 
 ## 🛠 Technical Skills
 
-- **Web Development**
 - **UI/UX Design**
 - **Graphic Design**
+- **Web Development**
+
   
 ## 📚 Current Focus
 
