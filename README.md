@@ -13,8 +13,9 @@
   
 ## 📚 Current Focus
 
-- 🗃️ **Projects:** Working on multiple frontend and backend projects using JavaScript and React.js
-- 🎯 **Learning:** Deepening knowledge in Web Development
+- 🖥️ **Job Role:** UI Developer  
+- 🎨 **Projects:** Designing and developing intuitive user interfaces  
+- 🚀 **Learning:** Exploring advanced UI/UX techniques to enhance digital experiences  
   
 ___
 
