@@ -10,7 +10,6 @@
 - **Graphic Design**
 - **Web Development**
 
-  
 ## 📚 Current Focus
 
 - 🖥️ **Job Role:** UI Developer  
