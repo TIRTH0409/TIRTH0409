@@ -8,18 +8,14 @@
 
 ![RentalX Web View](./Home.png)
 
-## 📚 Current Focus
-
-- 🖥️ **Job Role:** UI Developer  
-- 🎨 **Projects:** Designing and developing intuitive user interfaces  
-- 🚀 **Learning:** Exploring advanced UI/UX techniques to enhance digital experiences  
-  
 ___
 
-*Thank you for visiting my profile! Let's create something amazing together.* 🤝
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh; text-align: center;">
+  <p>Thank you for visiting my profile! Let's create something amazing together. 🤝</p>
 
-<div>
-  <a href="" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Mooli&pause=1000&multiline=true&width=435&lines=%E2%9C%A8EVER+POSITIVE%2C+NEVER+NEGATIVE%E2%9C%A8" alt="Typing SVG" />
-  </a>
+  <div>
+    <a href="#" target="_blank" aria-label="Typing SVG">
+      <img src="https://readme-typing-svg.demolab.com?font=Mooli&pause=1000&multiline=true&width=435&lines=%E2%9C%A8EVER+POSITIVE%2C+NEVER+NEGATIVE%E2%9C%A8" alt="Typing SVG" />
+    </a>
+  </div>
 </div>
