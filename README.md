@@ -8,12 +8,6 @@
 
 ![RentalX Web View](./Home.png)
 
-## 🛠 Technical Skills
-
-- **UI/UX Design**
-- **Graphic Design**
-- **Web Development**
-
 ## 📚 Current Focus
 
 - 🖥️ **Job Role:** UI Developer  
