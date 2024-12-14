@@ -10,7 +10,6 @@
 
 ___
 
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh; text-align: center;">
   <p>Thank you for visiting my profile! Let's create something amazing together. 🤝</p>
 
   <div>
