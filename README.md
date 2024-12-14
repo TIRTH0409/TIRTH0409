@@ -4,6 +4,10 @@
   </a>
 </div>
 
+### Portfolio
+
+![RentalX Web View](./Home.png)
+
 ## 🛠 Technical Skills
 
 - **UI/UX Design**
