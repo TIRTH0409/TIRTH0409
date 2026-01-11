@@ -3,11 +3,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2CF700&width=435&lines=Hello%F0%9F%91%8B+I'm+Tirth+Patel" alt="Typing SVG" />
   </a>
 </div>
-
-### Portfolio
-
-![RentalX Web View](./Home.png)
-
 ___
 
   <p>Thank you for visiting my profile! Let's create something amazing together. 🤝</p>
